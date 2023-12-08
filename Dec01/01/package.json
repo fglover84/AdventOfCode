@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getValue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "module": "getValue.js",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "babel-jest": "^29.7.0",
+    "esm": "^3.2.25",
+    "jest": "^29.7.0"
+  }
+}
